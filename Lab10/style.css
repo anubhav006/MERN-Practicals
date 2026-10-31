@@ -1,0 +1,10 @@
+/* Name: Anubhav Kumar | Roll No: 2410303091 | Assignment 10 */
+h1 { color: navy; }
+.note { font-style: italic; }
+#title { text-decoration: underline; }
+p { font-size: 18px; color: grey; }
+
+/* Extra rules so the index page of this lab looks tidy */
+/* Styles for the index page */
+body { font-family: sans-serif; max-width: 760px; margin: 2rem auto; padding: 0 1rem; line-height: 1.6; }
+.task-list li { margin-bottom: 0.5rem; }
