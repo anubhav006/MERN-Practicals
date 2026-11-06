@@ -20,5 +20,8 @@ Open `index.html` in a browser and click each task link.
 
 ## Screenshot
 ![Screenshot of the output](images/card.png)
+![Screenshot of the output](images/card.png)
+![Screenshot of the output](images/card.png)
 
-> Replace `images/screenshot.png` with a screenshot of your own browser window.
+![Screenshot of the output](images/card.png)
+
