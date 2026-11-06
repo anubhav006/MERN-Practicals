@@ -44,4 +44,4 @@ f632f8f Add home page
 ## Screenshot
 ![Terminal output](images/screenshot.png)
 
-> The image is drawn from the captured command output. Replace it with a screenshot of your own terminal.
+
