@@ -19,6 +19,7 @@ Practise the topic "Flexbox" through the three tasks of Assignment 13.
 Open `index.html` in a browser and click each task link.
 
 ## Screenshot
-![Screenshot of the output](images/screenshot.png)
+![Screenshot of the output](images/centred-cards.png)
 
-> Replace `images/screenshot.png` with a screenshot of your own browser window.
+![Screenshot of the output](images/nav-flex.png)
+![Screenshot of the output](images/wrapping-cards.png)
