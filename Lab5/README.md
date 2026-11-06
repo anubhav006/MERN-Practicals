@@ -17,8 +17,3 @@ Practise the topic "Links and Images" through the three tasks of Assignment 5.
 
 ## How to view
 Open `index.html` in a browser and click each task link.
-
-## Screenshot
-![Screenshot of the output](images/screenshot.png)
-
-> Replace `images/screenshot.png` with a screenshot of your own browser window.
