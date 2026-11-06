@@ -20,6 +20,5 @@ Open `index.html` in a browser and click each task link.
 
 ## Screenshot
 ![Screenshot of the output](images/centred-cards.png)
-
 ![Screenshot of the output](images/nav-flex.png)
 ![Screenshot of the output](images/wrapping-cards.png)
