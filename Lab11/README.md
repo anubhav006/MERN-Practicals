@@ -19,3 +19,8 @@ Practise the topic "CSS Units and Variables" through the three tasks of Assignme
 ## How to view
 Open `index.html` in a browser and click each task link.
 
+## Screenshot
+![Screenshot of the output](images/tokens-demo.png)
+![Screenshot of the output](images/units.png)
+![Screenshot of the output](images/variables.png)
+
