@@ -22,5 +22,3 @@ Open `index.html` in a browser and click each task link.
 ![Screenshot of the output](images/marks-accessible.png)
 ![Screenshot of the output](images/marks-average.png)
 ![Screenshot of the output](images/marks.png)
-
-> Replace `images/screenshot.png` with a screenshot of your own browser window.
