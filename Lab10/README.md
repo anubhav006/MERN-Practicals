@@ -17,4 +17,6 @@ Practise the topic "CSS: Adding Styles and Selectors" through the three tasks of
 ## How to view
 Open `index.html` in a browser and click each task link.
 
+(image/inline-internal.png)
+
 
