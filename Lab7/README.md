@@ -19,6 +19,6 @@ Practise the topic "Semantic HTML: An About Me Page" through the three tasks of 
 Open `index.html` in a browser and click each task link.
 
 ## Screenshot
-![Screenshot of the output](images/screenshot.png)
-
-> Replace `images/screenshot.png` with a screenshot of your own browser window.
+![Screenshot of the output](images/about-me-task1.png)
+![Screenshot of the output](images/about-me-task2.png)
+![Screenshot of the output](images/about-me.png)
