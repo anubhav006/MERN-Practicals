@@ -20,8 +20,8 @@ Open `index.html` in a browser and click each task link.
 
 ## Screenshot
 ![Screenshot of the output](images/card.png)
-![Screenshot of the output](images/card.png)
-![Screenshot of the output](images/card.png)
+![Screenshot of the output](images/box-model.png)
+![Screenshot of the output](images/scroll.png)
 
-![Screenshot of the output](images/card.png)
+
 
